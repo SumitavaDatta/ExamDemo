@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "itemImageInfo": "Local file",
+        "imageName": "Local_Icon"
+    },
+    {
+        "id": 2,
+        "itemImageInfo": "Test file",
+        "imageName": "Test_Icon"
+    },
+    {
+        "id": 3,
+        "itemImageInfo": "Demo file",
+        "imageName": "Demo_Icon"
+    },
+    {
+        "id": 4,
+        "itemImageInfo": "Readme file",
+        "imageName": "Readme_Icon"
+    },
+    {
+        "id": 5,
+        "itemImageInfo": "JSON file",
+        "imageName": "JSON_Icon"
+    },
+    {
+        "id": 6,
+        "itemImageInfo": "Text file",
+        "imageName": "Text_Icon"
+    },
+    {
+        "id": 7,
+        "itemImageInfo": "PDF file",
+        "imageName": "PDF_Icon"
+    },
+    {
+        "id": 8,
+        "itemImageInfo": "Document file",
+        "imageName": "Document_Icon"
+    }
+]
